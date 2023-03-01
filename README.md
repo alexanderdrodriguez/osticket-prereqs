@@ -37,6 +37,8 @@ Simply grab your virtual machines public IP address and login using the username
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+Open the Installation Files and download the required files for osTicket installation.
+
+Install and enable IIS in Windows with CGI. To do this, open the Server Manager, navigate to "World Wide Web Services" -> "Application Development Features" -> check "CGI".
 </p>
 <br />
