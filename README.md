@@ -39,6 +39,6 @@ Next we have to install and enable Internet Information Services (IIS) in Window
 <p>
 <img src="https://i.imgur.com/IQH33cf.png">
 <img src="https://i.imgur.com/p7TsqoH.png">
-<img src="https://i.gyazo.com/32e1749f2d29f450e53461ed1b6c06e5.png">
 <img src="https://camo.githubusercontent.com/27dacaaa327beb3d34eba9fefa06ee647f5340d4289770b3bde0c042d8233440/68747470733a2f2f692e696d6775722e636f6d2f37475646734d4e2e706e67"/>
+<img src="https://i.gyazo.com/32e1749f2d29f450e53461ed1b6c06e5.png">
 </p>
