@@ -46,7 +46,7 @@ Once the installation is finished open Microsoft Edge and type and enter 127.0.0
 </p>
 
 <p>
-Now we're ready to start installing the [osTicket Installation Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)!
+Now we're ready to start installing the [osTicket Installation Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6)
 Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the Installation Files.
 
 </p>
