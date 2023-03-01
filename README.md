@@ -55,5 +55,5 @@ Download and install the Rewrite Module (rewrite_amd64_en-US.msi) from the Insta
 <img src="https://i.gyazo.com/a0e9c68340ab1e7e6c046d9030d76db9.png">
   
 Create a folder named "PHP" in the location C:\PHP
-<img src="https://gyazo.com/029bcb938fb400c7b03836cab8d63150">
+<img src="https://i.gyazo.com/029bcb938fb400c7b03836cab8d63150.png">
 </p>
