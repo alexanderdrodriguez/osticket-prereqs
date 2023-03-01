@@ -28,7 +28,8 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Our first step is going to be to open the Windows 10 virtual machine via "Remote desktop" so we can start installing osTicket on it! Simply grab your virtual machines public IP address and login using the username and password you provided to create the VM.
+Our first step is going to be to open the Windows 10 virtual machine via "Remote desktop" so we can start installing osTicket on it! 
+Simply grab your virtual machines public IP address and login using the username and password you provided to create the VM.
 </p>
 <br />
 
