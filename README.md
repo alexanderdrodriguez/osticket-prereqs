@@ -67,7 +67,8 @@ Download and install VC_redist.x86.exe from the Installation Files.
 
 Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the Installation Files. During the installation process, select "Typical Setup", then launch the Configuration Wizard (after installation) and select "Standard Configuration" with password "Password1".
 <img src="https://i.gyazo.com/943c13b4805569234fbaae63156748eb.png">
-<img src="">
-<img src="">
-<img src="">
+<img src="https://i.gyazo.com/07a7de5cf1ce3efa83d95b9168eed72d.png">
+<img src="https://i.gyazo.com/4578a4201546941acfab6ce3923631d4.png">
+<img src="https://i.gyazo.com/f7857f33a399c5492eedaa644e4ae6a0.png">
+<img src="https://i.gyazo.com/e6721a1a99ee461c50ba94520a3e4e3a.png">  
 </p>
