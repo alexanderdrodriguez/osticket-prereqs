@@ -56,4 +56,7 @@ Download and install the Rewrite Module (rewrite_amd64_en-US.msi) from the Insta
   
 Create a folder named "PHP" in the location C:\PHP
 <img src="https://i.gyazo.com/029bcb938fb400c7b03836cab8d63150.png">
+  
+Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) from the Installation Files and unzip the contents into C:\PHP.
+<img src="https://i.gyazo.com/14855f2802e4a90b0d7e18c057bb4c29.png">
 </p>
