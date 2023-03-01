@@ -64,4 +64,10 @@ Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) from the Installation File
   
 Download and install VC_redist.x86.exe from the Installation Files.
 <img src="https://i.gyazo.com/be0375247a2c0e5aa9215fc50fe5c64a.png">
+
+Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the Installation Files. During the installation process, select "Typical Setup", then launch the Configuration Wizard (after installation) and select "Standard Configuration" with password "Password1".
+<img src="https://i.gyazo.com/943c13b4805569234fbaae63156748eb.png">
+<img src="">
+<img src="">
+<img src="">
 </p>
