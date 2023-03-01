@@ -61,4 +61,7 @@ Download PHP 7.3.8 (php-7.3.8-nts-Win32-VC15-x86.zip) from the Installation File
 <img src="https://i.gyazo.com/14855f2802e4a90b0d7e18c057bb4c29.png">
 <img src="https://i.gyazo.com/9c9c967a17559e45a8134e6435259a7e.png">
 <img src="https://i.gyazo.com/912b26f2e87cf1627f2e3a23d1d92e3a.png">
+  
+Download and install VC_redist.x86.exe from the Installation Files.
+<img src="https://i.gyazo.com/be0375247a2c0e5aa9215fc50fe5c64a.png">
 </p>
