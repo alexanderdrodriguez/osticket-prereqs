@@ -38,4 +38,4 @@ Simply grab your virtual machines public IP address and login using the username
 </p>
 <p>
 
-Install and enable Internet Information Services (IIS) in Windows with CGI. To do this, open the Control panel and click "Programs", then click "Turn Windows features on or off". Next navigate to "World Wide Web Services" -> "Application Development Features" -> and check "CGI".
+Install and enable Internet Information Services (IIS) in Windows with CGI. To do this, open the Control panel and click "Programs", then click "Turn Windows features on or off". Next check each of the features exactly like the image above, in the order of "World Wide Web Services" -> "Application Development Features" -> check "CGI".
