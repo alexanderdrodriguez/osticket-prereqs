@@ -34,7 +34,7 @@ Simply grab your virtual machines public IP address and login using the username
 <br />
 
 <p>
-Next we have to install and enable Internet Information Services (IIS) in Windows with CGI. To do this, open the Control panel and click "Programs", then click "Turn Windows features on or off". Next check each of the features exactly like in one of the images below, in the order of "World Wide Web Services" -> "Application Development Features" -> check "CGI". And then ress "OK" and once the installation is finished open Microsoft Edge and type 127.0.0.1 to see if Internet Information Services is working correctly.
+Next we have to install and enable Internet Information Services (IIS) in Windows with CGI. To do this, open the Control panel and click "Programs", then click "Turn Windows features on or off". Next check each of the features exactly like in one of the images below, in the order of "World Wide Web Services" -> "Application Development Features" -> check "CGI", and then press "OK". Once the installation is finished open Microsoft Edge and type and enter 127.0.0.1 into the search bar, if the IIS page appears that means that everything was installed correctly.
 </p>
 <p>
 <img src="https://i.imgur.com/IQH33cf.png">
