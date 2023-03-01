@@ -25,11 +25,11 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>Installation Steps</h2>
 
 <p>
-<img src="https://i.imgur.com/aCVH5Sq.png">
-</p>
-<p>
 Our first step is going to be to open your Microsoft Azure Windows 10 virtual machine via "Remote Desktop Connection" so we can start installing osTicket on it! 
 Simply grab your virtual machines public IP address and login using the username and password you provided Azure.
+</p>
+<p>
+<img src="https://i.imgur.com/aCVH5Sq.png">
 </p>
 <br />
 
