@@ -26,7 +26,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <p>
 Our first step is going to be to open your Microsoft Azure Windows 10 virtual machine via "Remote Desktop Connection" so we can start installing osTicket on it! 
-Simply grab your virtual machines public IP address and login using the username and password you provided Azure.
+Simply copy and paste your virtual machines public IP address and login using the username and password you provided Azure.
 </p>
 <p>
 <img src="https://i.imgur.com/aCVH5Sq.png">
@@ -50,5 +50,8 @@ Now within the VM open this link (https://drive.google.com/drive/u/0/folders/1AP
   
 Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the Installation Files.
 <img src="https://i.imgur.com/b4K90DP.png">
+
+Download and install the Rewrite Module (rewrite_amd64_en-US.msi) from the Installation Files.
+<img src="https://gyazo.com/a0e9c68340ab1e7e6c046d9030d76db9">
 
 </p>
