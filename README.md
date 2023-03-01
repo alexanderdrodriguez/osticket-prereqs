@@ -46,7 +46,8 @@ Once the installation is finished open Microsoft Edge and type and enter 127.0.0
 </p>
 
 <p>
-Have these [osTicket Installation Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) open and ready 
+Now within the VM open this link https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6). This is going to provide all of the installation files we need in order to install osTicket.
+  
 Download and install PHP Manager for IIS (PHPManagerForIIS_V1.5.0.msi) from the Installation Files.
 
 </p>
