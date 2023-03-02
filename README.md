@@ -126,7 +126,7 @@ Next assign permissions to "ost-config.php". Disable inheritance, then remove al
 <p>Continue setting up osTicket in the browser by entering the following details: MySQL Database: osTicket, MySQL Username: root, MySQL Password: Password1. Click "Install Now!".</p>
 <img src="https://i.gyazo.com/d42a08bd64fbfbdfcb859af42ae80411.png">
 
-<p>Congratulations! osTicket is now installed on your Azure Virtual Machine Windows 10.</p>
+<p>Congratulations! osTicket is now installed on your Windows 10 Azure Virtual Machine.</p>
 <img src="https://i.gyazo.com/1df948cd32a1b557d555eeb2de7e1e6a.png">
 
 Extra steps and notes:
