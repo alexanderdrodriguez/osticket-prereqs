@@ -101,7 +101,6 @@ Go back to IIS, sites -> Default -> osTicket. Double-click PHP Manager, then cli
 <img src="https://i.gyazo.com/3dc8db4040086de220cc14f9a159bee1.png">
 <img src="https://i.gyazo.com/b2b55a555ad5118b476be4b365d78675.png">
 <img src="https://i.gyazo.com/281b58d87cba1089bb922dee9eea3031.png">
-<img src="https://i.gyazo.com/b201f2df585389e81d7cd032bf34f99c.png">
 
 Refresh the osTicket site in your browser and observe the changes.
 <img src="https://i.gyazo.com/1045dfd05ce33c23e0fb4dd3a849231a.png">
