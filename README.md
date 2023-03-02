@@ -116,5 +116,5 @@ Next assign permissions to "ost-config.php". Disable inheritance, then remove al
 <img src="https://i.gyazo.com/50260ade7d5608972b3e2c7cd54ef8ab.png">
 <img src="https://i.gyazo.com/7aa04d4ae54b33331d2e832aff85b712.png">
 
-Download and install HeidiSQL from the Installation Files. Open HeidiSQL, create a new session with root/Password1, and connect to the session. Create a database called "osTicket".
+<p>Download and install HeidiSQL from the Installation Files. Open HeidiSQL, create a new session with root/Password1, and connect to the session. Create a database called "osTicket".</p?
 <img src="https://i.gyazo.com/55e5e23ac5bcdb8fc88f7cf57bcb0216.png">
