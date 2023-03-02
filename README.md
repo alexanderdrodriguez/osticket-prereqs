@@ -114,7 +114,7 @@ Next assign permissions to "ost-config.php". Disable inheritance, then remove al
 
 Continue setting up osTicket in the browser by clicking "Continue". Name the helpdesk and provide the default email address that will receive email from customers.
 <img src="https://i.gyazo.com/50260ade7d5608972b3e2c7cd54ef8ab.png">
-<img src="https://i.gyazo.com/830f3c8ac0478bf17fc6fcda404f7773.png">
+<img src="https://i.gyazo.com/7aa04d4ae54b33331d2e832aff85b712.png">
 
 Download and install HeidiSQL from the Installation Files. Open HeidiSQL, create a new session with root/Password1, and connect to the session. Create a database called "osTicket".
 <img src="https://i.gyazo.com/55e5e23ac5bcdb8fc88f7cf57bcb0216.png">
