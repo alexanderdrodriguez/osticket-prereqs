@@ -131,10 +131,5 @@ Next assign permissions to "ost-config.php". Disable inheritance, then remove al
 
 Extra steps and notes:
 
-Clean up
 Delete: C:\inetpub\wwwroot\osTicket\setup
 Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
-
-Notes:
-Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
-End Users osTicket URL: http://localhost/osTicket/ 
