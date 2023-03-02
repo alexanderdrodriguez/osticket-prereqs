@@ -87,4 +87,5 @@ Install osTicket v1.15.8. Download osTicket from the Installation Files Folder, 
 <img src="https://i.gyazo.com/b5519a9c510f93b366361d991da76b68.png">
 <img src="https://i.gyazo.com/48f6b0b3aa63c8c8c535da64d001bbb7.png">
 <img src="https://i.gyazo.com/dd2b3fc029b777b97e1b0ed8b1bb7656.png">
+<p>Reload IIS (Open IIS, Stop and Start the server)</p>
 <img src="https://i.gyazo.com/f4ddd49848cca4b5c12746d58f9c2d27.png">
