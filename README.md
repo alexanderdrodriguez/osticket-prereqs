@@ -104,3 +104,5 @@ Go to sites -> Default -> osTicket. On the right, click "Browse *:80" to open th
 
 Refresh the osTicket site in your browser and observe the changes.
 <img src="https://i.gyazo.com/1045dfd05ce33c23e0fb4dd3a849231a.png">
+
+Rename "ost-sampleconfig.php" to "ost-config.php" from C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroot\osTicket\include\ost-config.php.
