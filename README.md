@@ -110,7 +110,7 @@ Next assign permissions to "ost-config.php". Disable inheritance, then remove al
 <img src="https://i.gyazo.com/8e0cefc85dff5769d4757bd8ff7736ed.png">
 <img src="https://i.gyazo.com/def3f685bd70b33d95cb1ae2e688a085.png">
 <img src="https://i.gyazo.com/56616ef3f64bc3576b3f8b361e357499.png">
-<img src="https://i.gyazo.com/e0559add517d1f406964bfdd8b6cdcd0.png">
+<img src="https://i.gyazo.com/303707513b24c9154513005a58a757a2.png">
 
 Continue setting up osTicket in the browser by clicking "Continue". Name the helpdesk and provide the default email address that will receive email from customers.
 <img src="https://i.gyazo.com/50260ade7d5608972b3e2c7cd54ef8ab.png">
