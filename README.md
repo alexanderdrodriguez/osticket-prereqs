@@ -104,8 +104,8 @@ Go to sites -> Default -> osTicket. On the right, click "Browse *:80" to open th
 Refresh the osTicket site in your browser and observe the changes.
 <img src="https://i.gyazo.com/1045dfd05ce33c23e0fb4dd3a849231a.png">
 
-Rename "ost-sampleconfig.php" to "ost-config.php" from C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroot\osTicket\include\ost-config.php. 
-Next assign permissions to "ost-config.php". Disable inheritance, then remove all existing permissions. Add new permissions for "Everyone" and give them "All" access.
+<p>Rename "ost-sampleconfig.php" to "ost-config.php" from C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroot\osTicket\include\ost-config.php. 
+Next assign permissions to "ost-config.php". Disable inheritance, then remove all existing permissions. Add new permissions for "Everyone" and give them "All" access.</p>
 <img src="https://i.gyazo.com/006ea8148836f968c01527a3c2ce6032.png">
 <img src="https://i.gyazo.com/8e0cefc85dff5769d4757bd8ff7736ed.png">
 <img src="https://i.gyazo.com/def3f685bd70b33d95cb1ae2e688a085.png">
