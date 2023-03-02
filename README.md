@@ -104,15 +104,15 @@ Go to sites -> Default -> osTicket. On the right, click "Browse *:80" to open th
 Refresh the osTicket site in your browser and observe the changes.
 <img src="https://i.gyazo.com/1045dfd05ce33c23e0fb4dd3a849231a.png">
 
-<p>Rename "ost-sampleconfig.php" to "ost-config.php" from C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroot\osTicket\include\ost-config.php. 
-Next assign permissions to "ost-config.php". Disable inheritance, then remove all existing permissions. Add new permissions for "Everyone" and give them "All" access.</p>
+Rename "ost-sampleconfig.php" to "ost-config.php" from C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroot\osTicket\include\ost-config.php. 
+Next assign permissions to "ost-config.php". Disable inheritance, then remove all existing permissions. Add new permissions for "Everyone" and give them "All" access.
 <img src="https://i.gyazo.com/006ea8148836f968c01527a3c2ce6032.png">
 <img src="https://i.gyazo.com/8e0cefc85dff5769d4757bd8ff7736ed.png">
 <img src="https://i.gyazo.com/def3f685bd70b33d95cb1ae2e688a085.png">
 <img src="https://i.gyazo.com/56616ef3f64bc3576b3f8b361e357499.png">
 <img src="https://i.gyazo.com/303707513b24c9154513005a58a757a2.png">
 
-Continue setting up osTicket in the browser by clicking "Continue". Name the helpdesk and provide the default email address that will receive email from customers.
+<p>Continue setting up osTicket in the browser by clicking "Continue". Name the helpdesk and provide the default email address that will receive email from customers.</p>
 <img src="https://i.gyazo.com/50260ade7d5608972b3e2c7cd54ef8ab.png">
 <img src="https://i.gyazo.com/7aa04d4ae54b33331d2e832aff85b712.png">
 
