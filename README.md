@@ -28,7 +28,7 @@ After completing the prerequesites above open your Microsoft Azure Windows 10 vi
 Simply copy and paste your virtual machines public IP address and login using the username and password you provided Azure.
 </p>
 <p>
-<img src="https://i.imgur.com/aCVH5Sq.png">
+<img src="https://i.gyazo.com/367b7bc5367ef6a9f58ad01867971fef.png">
 </p>
 <br />
 
