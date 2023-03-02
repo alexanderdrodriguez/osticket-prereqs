@@ -128,3 +128,13 @@ Next assign permissions to "ost-config.php". Disable inheritance, then remove al
 
 <p>Congratulations! osTicket is now installed on your Azure Virtual Machine Windows 10.</p>
 <img src="https://i.gyazo.com/1df948cd32a1b557d555eeb2de7e1e6a.png">
+
+Extra steps and notes:
+
+Clean up
+Delete: C:\inetpub\wwwroot\osTicket\setup
+Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+
+Notes:
+Browse to your help desk login page: http://localhost/osTicket/scp/login.php  
+End Users osTicket URL: http://localhost/osTicket/ 
