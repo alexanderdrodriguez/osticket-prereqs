@@ -112,3 +112,4 @@ Next assign permissions to "ost-config.php". Disable inheritance, then remove al
 <img src="https://i.gyazo.com/def3f685bd70b33d95cb1ae2e688a085.png">
 <img src="https://i.gyazo.com/56616ef3f64bc3576b3f8b361e357499.png">
 <img src="https://gyazo.com/e0559add517d1f406964bfdd8b6cdcd0">
+<img src="https://i.gyazo.com/e0559add517d1f406964bfdd8b6cdcd0.png">
