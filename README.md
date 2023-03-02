@@ -71,4 +71,13 @@ Download and install MySQL 5.5.62 (mysql-5.5.62-win32.msi) from the Installation
 <img src="https://i.gyazo.com/4578a4201546941acfab6ce3923631d4.png">
 <img src="https://i.gyazo.com/f7857f33a399c5492eedaa644e4ae6a0.png">
 <img src="https://i.gyazo.com/e6721a1a99ee461c50ba94520a3e4e3a.png">  
+  
+Open IIS as an Admin and register PHP from within IIS.
+<img src="https://i.gyazo.com/93c4a3ec8a09046039bb007b0aa9d588.png">
+<img src="https://gyazo.com/f6c789ca23a21e99af894c6e85b3e128">
+<img src="https://i.gyazo.com/fd6c837a883ed1b17abb00af4892e0bb.png">
+<img src="https://gyazo.com/4ba462a48e5ad4e2dcb362bf39fd8f0b">
+
+Reload IIS (Open IIS, Stop and Start the server).
+<img src="https://i.gyazo.com/86285f2b8b2d653c687f3b4b4ff5ed40.png">
 </p>
