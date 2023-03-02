@@ -131,5 +131,4 @@ Next assign permissions to "ost-config.php". Disable inheritance, then remove al
 
 Extra steps and notes:
 
-Delete: C:\inetpub\wwwroot\osTicket\setup
-Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
+Delete: C:\inetpub\wwwroot\osTicket\setup and Set Permissions to “Read” only: C:\inetpub\wwwroot\osTicket\include\ost-config.php
