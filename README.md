@@ -18,14 +18,13 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 <h2>List of Prerequisites</h2>
 
 - Create a Resource Group in Azure
-- Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs
-- Make sure that when you are creating the Virtual Machine you allow it to create a new Virtual Network (Vnet)
-- Have these [osTicket Installation Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) open and ready to install within your Windows 10 Virtual Machine.
+- Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs within the Resource Group you created
+- Have this link to the [osTicket Installation Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) open and ready to paste into your Windows 10 Virtual Machine.
 
 <h2>Installation Steps</h2>
 
 <p>
-Our first step is going to be to open your Microsoft Azure Windows 10 virtual machine via "Remote Desktop Connection" so we can start installing osTicket on it! 
+After completing the prerequesites above open your Microsoft Azure Windows 10 virtual machine via "Remote Desktop Connection".
 Simply copy and paste your virtual machines public IP address and login using the username and password you provided Azure.
 </p>
 <p>
