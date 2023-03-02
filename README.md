@@ -95,7 +95,7 @@ Go to sites -> Default -> osTicket. On the right, click "Browse *:80" to open th
 <img src="https://i.gyazo.com/fb9ec6919de67dce639c5341536492eb.png">
 <img src="https://i.gyazo.com/529c109a5d65030dd986e1bfcadc7128.png">
 
-Go back to IIS, sites -> Default -> osTicket. Double-click PHP Manager, then click "Enable or disable an extension". Enable the following extensions: php_imap.dll, php_intl.dll, php_opcache.dll.
+<p>Go back to IIS, sites -> Default -> osTicket. Double-click PHP Manager, then click "Enable or disable an extension". Enable the following extensions: php_imap.dll, php_intl.dll, php_opcache.dll.</p>
 <img src="https://i.gyazo.com/fd9712a5a576e8eb9d940595dc58b51d.png">
 <img src="https://i.gyazo.com/685abe3674de537d8390e8e5e7cafb38.png">
 <img src="https://i.gyazo.com/3dc8db4040086de220cc14f9a159bee1.png">
