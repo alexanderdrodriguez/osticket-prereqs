@@ -106,3 +106,7 @@ Refresh the osTicket site in your browser and observe the changes.
 <img src="https://i.gyazo.com/1045dfd05ce33c23e0fb4dd3a849231a.png">
 
 Rename "ost-sampleconfig.php" to "ost-config.php" from C:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php to C:\inetpub\wwwroot\osTicket\include\ost-config.php.
+<img src="https://i.gyazo.com/006ea8148836f968c01527a3c2ce6032.png">
+
+<img src="">
+<img src="">
