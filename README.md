@@ -118,3 +118,13 @@ Next assign permissions to "ost-config.php". Disable inheritance, then remove al
 
 <p>Download and install HeidiSQL from the Installation Files. Open HeidiSQL, create a new session with root/Password1, and connect to the session. Create a database called "osTicket".</p>
 <img src="https://i.gyazo.com/55e5e23ac5bcdb8fc88f7cf57bcb0216.png">
+<img src="https://i.gyazo.com/f22cd5bfa5a4a3b9e806efcd27c66d3b.png">
+<img src="https://i.gyazo.com/f9a89629cd9605e79d3d4843ddcf216f.png">
+<img src="https://i.gyazo.com/bd0c062d060c04ca16f02e2f60d5438a.png">
+<img src="https://i.gyazo.com/5ae3a5d945a187ed9056ebbcea5105b5.png">
+
+Continue setting up osTicket in the browser by entering the following details: MySQL Database: osTicket, MySQL Username: root, MySQL Password: Password1. Click "Install Now!".
+<img src="https://i.gyazo.com/d42a08bd64fbfbdfcb859af42ae80411.png">
+
+Congratulations! osTicket is now installed on your Azure Virtual Machine Windows 10.
+<img src="https://i.gyazo.com/1df948cd32a1b557d555eeb2de7e1e6a.png">
