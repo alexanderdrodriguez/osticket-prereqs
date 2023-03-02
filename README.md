@@ -17,9 +17,9 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>List of Prerequisites</h2>
 
-- Create a Resource Group in Azure
+- Create a Resource Group in Microsoft Azure
 - Create a Windows 10 Virtual Machine (VM) with 2-4 Virtual CPUs within the Resource Group you created
-- Have this link to the [osTicket Installation Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) open and ready to paste into your Windows 10 Virtual Machine.
+- Have this link to the [osTicket Installation Files](https://drive.google.com/drive/u/0/folders/1APMfNyfNzcxZC6EzdaNfdZsUwxWYChf6) open and ready to paste into your Windows 10 Virtual Machine
 
 <h2>Installation Steps</h2>
 
