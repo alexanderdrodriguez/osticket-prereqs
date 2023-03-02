@@ -76,7 +76,6 @@ Open IIS as an Admin and register PHP from within IIS.
 <img src="https://i.gyazo.com/93c4a3ec8a09046039bb007b0aa9d588.png">
 <img src="https://i.gyazo.com/f6c789ca23a21e99af894c6e85b3e128.png">
 <img src="https://i.gyazo.com/fd6c837a883ed1b17abb00af4892e0bb.png">
-<img src="https://i.gyazo.com/86285f2b8b2d653c687f3b4b4ff5ed40.png">
 
 Reload IIS (Open IIS, Stop and Start the server).
 <img src="https://i.gyazo.com/86285f2b8b2d653c687f3b4b4ff5ed40.png">
