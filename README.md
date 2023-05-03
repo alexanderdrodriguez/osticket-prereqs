@@ -7,7 +7,7 @@ This tutorial outlines the prerequisites and installation of the open-source hel
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Install osTicket with Microsoft Azure Part 1: The Prerequisites and Installation](https://youtu.be/Skud9OEovqw)
+- ### [YouTube: How To Install osTicket with Microsoft Azure Part 1: Prerequisites and Installation](https://youtu.be/Skud9OEovqw)
 
 <h2>Environments and Technologies Used</h2>
 
